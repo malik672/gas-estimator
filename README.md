@@ -11,7 +11,7 @@ This is a Rust program that fetches the current gas price and block number from 
 
 ## Installation
 
-1. Clone the repository: ```git clone https://github.com/your-username/ethereum-gas-price-calculator.git```
+1. Clone the repository: ```git clone https://github.com/malik672/ethereum-gas-price-calculator.git```
 2. Navigate to the project directory: ```cd src ```
 3. Build the project: ```cargo build```
 
