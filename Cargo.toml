@@ -1,0 +1,13 @@
+[package]
+name = "gas-estimator"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ethers = "2.0.10"
+reqwest = "0.11.22"
+serde = "1.0.190"
+serde_json = "1.0.108"
+tokio = { version = "1.33.0", features = ["full"] }
